@@ -21,13 +21,14 @@ It describes the nature of each store in terms of sales, Gross profits, location
   
 ### 3. Machine learning Algorithms
 * Regression
-  > 
-* Clustering
-  > Preparing the data <br> Applying elbow method and visualize it using yellowbrick library to display the elbow point for k value in k-means <br> Use PCA method to reduce dimensionality.
+  > Implement Multiple Linear Regression <br> Implement Simple Linear Regression <br> Plot the fitted line and errors of each model.
+* Clustering <strong>(My Implementation)</strong>
+  > Applying elbow method and visualize it using yellowbrick library to display the elbow point for k value in k-means <br> Use PCA method to reduce dimensionality.
 * Neural Network
-  >
+  > Multi-Layer Perceptron Neural Network <br> Make predictions on new data and get the predicted sales <br> Looking at the importance scores to detect the effect each feature has on sales
 * Association Rule
-  > 
+  > detect relation between feature such as: Sales $m and Number of Staff, Sales $m and Car Spaces, Female managers and Advertising
+
 
 ### 4. Insights
 
